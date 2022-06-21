@@ -20,3 +20,8 @@
 - 🗳️ [Polipal](https://polipal.app)
 - 🦘 [Helping Group](https://helping.group) (with initiatives like 🏠 [Helping Homes](https://helpinghomes.com.au))
 - Among other projects, that you can find at [danferg.com](https://danferg.com)
+
+
+        <a title="Install Typefully Raycast Extension" href="https://www.raycast.com/danielferguson/typefully#install">
+          <img style="height: 64px" src="https://assets.raycast.com/danielferguson/typefully/install_button@2x.png" height="64">
+</a>      
