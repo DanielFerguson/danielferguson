@@ -27,3 +27,8 @@
 <a title="Install Typefully Raycast Extension" href="https://www.raycast.com/danielferguson/typefully#install">
   <img style="height: 64px" src="https://assets.raycast.com/danielferguson/typefully/install_button@2x.png" height="64">
 </a>      
+
+
+<a title="Install Fathom Analytics Raycast Extension" href="https://www.raycast.com/danielferguson/fathom-analytics#install">
+  <img style="height: 64px" src="https://assets.raycast.com/danielferguson/fathom-analytics/install_button@2x.png" height="64">
+</a>      
