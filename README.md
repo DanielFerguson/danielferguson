@@ -19,7 +19,7 @@
 - 🔭 [Observer](https://useobserver.com)
 - 🗳️ [Polipal](https://polipal.app)
 - 🦘 [Helping Group](https://helping.group) (with initiatives like 🏠 [Helping Homes](https://helpinghomes.com.au))
-- Among other projects, that you can find at [danferg.com](https://danferg.com)
+- Among other projects, that you can find at 👋 [danferg.com](https://danferg.com)
 
 
 ##### My Raycast Extensions
