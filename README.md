@@ -4,7 +4,7 @@
 
 ##### Who Am I?
 
-- 🏢 I'm currently working as **CTO @ Imperial Wealth**, **President @ Helping Group** and running **Aaiga**
+- 🏢 I'm currently working as **Tech Lead @ Imperial Wealth**, **President @ Helping Group** and running **Aaiga**
 - 🚀 My epic for 2022 is creating **12 startups in 12 months**
 - 🔨 I solve issues with: `.php`, `.jsx`, `.vue`, `.py`
 - 🌏 I'm driving **holistic change**, and creating **social impact**
