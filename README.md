@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently working as **Tech Lead @ Imperial Wealth**, **President @ Helping Group** and running **Aaiga**
 - 🚀 My epic for 2022 is creating **12 startups in 12 months**
-- 🔨 I solve issues with: `.php`, `.jsx`, `.vue`, `.py`
+- 🔨 I solve issues with: `.php`, `.jsx`, `.tsx`, `.vue`, `.py`
 - 🌏 I'm driving **holistic change**, and creating **social impact**
 - 🌱 Mentoring **startup founders**, **uni students** and **career changers**
 - 📫 Reach me: [twitter.com/thedannyferg](https://twitter.com/thedannyferg) or [linkedin.com/in/danferg](https://linkedin.com/in/danferg)
