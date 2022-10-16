@@ -32,3 +32,8 @@
 <a title="Install Fathom Analytics Raycast Extension" href="https://www.raycast.com/danielferguson/fathom-analytics#install">
   <img style="height: 64px" src="https://assets.raycast.com/danielferguson/fathom-analytics/install_button@2x.png" height="64">
 </a>      
+
+
+<a href="https://www.raycast.com/dutzi/font-awesome">
+  <img src="https://assets.raycast.com/dutzi/font-awesome/install_button@2x.png" style="height: 64px;" alt="" height="64">
+</a>
