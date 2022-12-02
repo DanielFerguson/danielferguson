@@ -15,6 +15,7 @@
 ##### What I'm Working On
 
 - ✨ 12 startups in 12 months (follow my journey at [danferg.com](https://danferg.com))
+- ☁️ [Airproxy](https://www.airproxy.app/); use Airtable in production, fearlessly.
 - ⚗️ [yFocus](https://yfocus.app)
 - 🔭 [Observer](https://useobserver.com)
 - 🗳️ [Polipal](https://polipal.app)
