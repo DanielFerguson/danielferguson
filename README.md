@@ -25,7 +25,7 @@
 
 ##### My Raycast Extensions
 
-<a title="Install Typefully Raycast Extension" href="https://www.raycast.com/danielferguson/typefully#install">
+<a title="Install Typefully Raycast Extension" href="https://www.raycast.com/typefully/typefully#install">
   <img style="height: 64px" src="https://assets.raycast.com/danielferguson/typefully/install_button@2x.png" height="64">
 </a>      
 
