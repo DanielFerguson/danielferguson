@@ -5,7 +5,7 @@
 ##### Who Am I?
 
 - 🏢 I'm currently contracting, helping companies develop new tools, experiences and automations
-- 🚀 My epic for 2022 is creating **12 startups in 12 months**
+- 🚀 My epic for 2023 is creating **12 startups in 12 months**
 - 🔨 I solve issues and build experiences with: `.tsx`, `.php`, `.rs`, `.go`, and `.py`
 - 🌏 I'm driving **holistic change**, and creating **social impact**
 - 🌱 Mentoring **startup founders**, **uni students** and **career changers**
