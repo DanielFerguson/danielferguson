@@ -2,7 +2,7 @@
 
 #### I'm a solutions architect working in Melbourne, Australia
 
-##### Who Am I?!
+##### Who Am I?
 
 - 🏢 I'm currently contracting, helping companies develop new tools, experiences and automations
 - 🚀 My epic for 2023 is creating **12 startups in 12 months**
