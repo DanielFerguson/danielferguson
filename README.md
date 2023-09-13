@@ -14,20 +14,16 @@
 
 ##### What I'm Working On
 
-- ✨ 12 startups in 12 months (follow my journey at [danferg.com](https://danferg.com))
 - ☁️ [Airproxy](https://www.airproxy.app/); use Airtable in production, fearlessly.
-- ⚗️ [yFocus](https://yfocus.app)
-- 🔭 [Observer](https://useobserver.com)
-- 🗳️ [Polipal](https://polipal.app)
 - 🦘 [Helping Group](https://helping.group) (with initiatives like 🏠 [Helping Homes](https://helpinghomes.com.au))
 - Among other projects, that you can find at 👋 [danferg.com](https://danferg.com)
 
 
 ##### My Raycast Extensions
 
-<a title="Install Typefully Raycast Extension" href="https://www.raycast.com/typefully/typefully#install">
-  <img style="height: 64px" src="https://assets.raycast.com/danielferguson/typefully/install_button@2x.png" height="64">
-</a>      
+<a title="Install typefully Raycast Extension" href="https://www.raycast.com/typefully/typefully">
+  <img src="https://www.raycast.com/typefully/typefully/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;">
+</a>
 
 
 <a title="Install Fathom Analytics Raycast Extension" href="https://www.raycast.com/danielferguson/fathom-analytics#install">
