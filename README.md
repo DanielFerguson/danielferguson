@@ -6,7 +6,7 @@
 
 - 🏢 I'm currently contracting, helping companies develop new tools, experiences and automations
 - 🚀 My epic for 2023 is creating **12 startups in 12 months**
-- 🔨 I solve issues and build experiences with: `.tsx`, `.php`, and `.rs`
+- 🔨 I solve issues and build experiences with: `.tsx`, `.go`, `.php`, and `.rs`
 - 🌏 I'm driving **holistic change**, and creating **social impact**
 - 🌱 Mentoring **startup founders**, **uni students** and **career changers**
 - 📫 Reach me: [twitter.com/thedannyferg](https://twitter.com/thedannyferg) or [linkedin.com/in/danferg](https://linkedin.com/in/danferg)
