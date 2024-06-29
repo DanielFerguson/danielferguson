@@ -1,19 +1,17 @@
 ### G'day! 👋
 
-#### I'm a solutions architect working in Melbourne, Australia
+#### I'm a software engineer working in Melbourne, Australia
 
 ##### Who Am I
 
-- 🏢 I'm currently contracting, helping companies develop new tools, experiences and automations
-- 🚀 My epic for 2023 is creating **12 startups in 12 months**
-- 🔨 I solve issues and build experiences with: `.tsx`, `.go`, `.php`, and `.rs`
+- 🏢 I'm currently CTO & co-founder @ Communiti Labs
+- 🔨 I solve issues and build experiences with: `.php`, `.ts`, `.py`, and `.go`
 - 🌏 I'm driving **holistic change**, and creating **social impact**
-- 🌱 Mentoring **startup founders**, **uni students** and **career changers**
 - 📫 Reach me: [twitter.com/thedannyferg](https://twitter.com/thedannyferg) or [linkedin.com/in/danferg](https://linkedin.com/in/danferg)
-- 🗞️ Sign up for the newsletter at [danferg.com](https://danferg.com)
 
 ##### What I'm Working On
 
+- 🔬 [Communiti Labs](https://www.communitilabs.com); unleash the Power of AI in Data Analysis
 - ☁️ [Airproxy](https://www.airproxy.app/); use Airtable in production, fearlessly.
 - 🦘 [Helping Group](https://helping.group) (with initiatives like 🏠 [Helping Homes](https://helpinghomes.com.au))
 - Among other projects, that you can find at 👋 [danferg.com](https://danferg.com)
