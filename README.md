@@ -1,5 +1,8 @@
-[![Dan Ferg — builder, strategist and optimist. Technology for problems that actually matter.](https://danferg.com/images/og-default.png#gh-light-mode-only)](https://danferg.com)
-[![Dan Ferg — builder, strategist and optimist. Technology for problems that actually matter.](https://danferg.com/images/og-default-dark.png#gh-dark-mode-only)](https://danferg.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://danferg.com/images/og-default-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://danferg.com/images/og-default.png">
+  <img alt="Dan Ferg — builder, strategist and optimist. Technology for problems that actually matter." src="https://danferg.com/images/og-default.png">
+</picture>
 
 # G'day, I'm Dan 👋
 
